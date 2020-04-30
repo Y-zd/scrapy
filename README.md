@@ -4,7 +4,7 @@ scrapy爬虫
 
   - PS: 浏览器可以装xpath helper插件辅助查看 xpath
 
-- [爬取豆瓣TOP250电影数据](http://www.xuxueli.com/xxl-job/)
+- [爬取豆瓣TOP250电影数据](/DoubanMovieTop250)
   ```
   # 项目根目录(DoubanMovieTop250\DoubanMovieTop250)下执行以下命令
   scrapy crawl douban_movie_top250 -o douban.csv
