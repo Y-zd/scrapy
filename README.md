@@ -9,3 +9,5 @@ scrapy爬虫
   # 项目根目录(DoubanMovieTop250\DoubanMovieTop250)下执行以下命令
   scrapy crawl douban_movie_top250 -o douban.csv
   ```  
+- [爬取豆瓣图书信息](/DoubanBook)
+  
